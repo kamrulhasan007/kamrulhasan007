@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrulhasan007&label=Profile%20views&color=0e75b6&style=flat" alt="kamrulhasan007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamrulhasan007" alt="kamrulhasan007" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mdkamru90566034" target="blank"><img src="https://img.shields.io/twitter/follow/mdkamru90566034?logo=twitter&style=for-the-badge" alt="mdkamru90566034" /></a> </p>
-
 - 🔭 I’m currently working on **Project 3**
 
 - 🌱 I’m currently learning **Bootstrap, MERN Stack Development**
