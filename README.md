@@ -1,30 +1,30 @@
 ![I am kamrulhasan007](https://raw.githubusercontent.com/kamrulhasan007/kamrulhasan007/main/Page.jpg)
 
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h1 align="center">Hi 👋, I'm Md Kamrul Hasan</h1>
+<h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
+![Profile views](https://gpvc.arturio.dev/kamrulhasan007) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+Knock me: https://www.facebook.com/profile.php?id=100055221492202after effects
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: PYTHON/ BOOTSTRAP/ NODE.JS / JS / HTML / CSS / PHOTOSHOP / ILLUSTRATOR /  PREMIERE PRO / AFTER EFFECTS
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://habluprogrammer.com/)
+- 🔭 I’m currently working on [JAVASCRIPT PROJECTS]
 
-- 🌱 I’m currently learning **JS, Python, React**
+- 🌱 I’m currently learning **JS,BOOTSTRAP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/kamrulhasan007](https://github.com/kamrulhasan007)
 
-- 📝 I regularly write articles on [https://habluprogrammer.com/](https://habluprogrammer.com/)
+- 📝 I regularly write articles on [https://tech-boy-007.blogspot.com/](https://tech-boy-007.blogspot.com/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **mdtutul763@gmail.com**
+- 📫 How to reach me **kamrulhasan60132@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 All About Me:[https://kamrulhasan007.github.io/Project2/](https://kamrulhasan007.github.io/Project2/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
