@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/kamrulhasan007) 
 
 Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: https://www.facebook.com/profile.php?id=100055221492202after effects
+Knock me: https://www.facebook.com/profile.php?id=100055221492202
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / JS / HTML / CSS / PHOTOSHOP / ILLUSTRATOR /  PREMIERE PRO / AFTER EFFECTS
  
@@ -28,14 +28,12 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / JS / HTML / CSS / PHOTOSHOP / ILLUSTRATOR /
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tutul.qcsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hablu programmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
-<a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://fb.com/100055221492202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
+<a href="https://twitter.com/Mdkamru90566034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-kamrul-hasan-a1952a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
+<a href="https://instagram.com/md_kamrul_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,8 +53,8 @@ Skills: PYTHON/ BOOTSTRAP/ NODE.JS / JS / HTML / CSS / PHOTOSHOP / ILLUSTRATOR /
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan007)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulhasan007&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasan007)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kamrulhasan007)  
