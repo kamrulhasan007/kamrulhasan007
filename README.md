@@ -1,7 +1,7 @@
 ![I am kamrulhasan007](https://raw.githubusercontent.com/kamrulhasan007/kamrulhasan007/main/Page.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Md Kamrul Hasan</h1>
+<h1 align="center">Hi 👋, I'm Kamrul</h1>
 <h3 align="center">MERN Stack Web Developer and Web Designer</h3>
 
 ![Profile views](https://gpvc.arturio.dev/kamrulhasan007) 
