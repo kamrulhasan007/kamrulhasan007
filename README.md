@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/kamrulhasan007) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
+Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer. 
 Knock me: https://www.facebook.com/profile.php?id=100055221492202
 
 Skills: PYTHON/ BOOTSTRAP/ NODE.JS / JS / HTML / CSS / PHOTOSHOP / ILLUSTRATOR /  PREMIERE PRO / AFTER EFFECTS
